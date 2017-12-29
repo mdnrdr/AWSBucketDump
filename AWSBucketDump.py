@@ -17,7 +17,7 @@ import sys
 import os
 import shutil
 import traceback
-from queue import Queue
+from Queue import Queue
 from threading import Thread, Lock
 
 
